@@ -1,0 +1,972 @@
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 7 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 7 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\helen\AppData\Local\Temp\testng-eclipse--981219971\testng-customsuite.xml
+
+2024-08-22 10:18:37 INFO  Utils:112 -
+			[Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-08-22 10:18:42 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 10:18:42 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 10:18:43 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 10:18:43 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 10:18:45 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 10:18:45 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 10:18:45 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.internal.ExitCodeListener@66bacdbc: 0 ms
+2024-08-22 10:18:45 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1f387978: 87 ms
+2024-08-22 10:18:46 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.jq.Main@252f626c: 145 ms
+2024-08-22 10:18:46 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.FailedReporter@33f98231: 1 ms
+2024-08-22 10:18:46 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.XMLReporter@7f8633ae: 18 ms
+2024-08-22 10:18:46 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.EmailableReporter2@15ac59c2: 14 ms
+2024-08-22 10:18:46 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@5e2f3be5: 16 ms
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 2 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\helen\AppData\Local\Temp\testng-eclipse--1372819375\testng-customsuite.xml
+
+2024-08-22 10:22:01 INFO  Utils:112 -
+			[Utils] DynamicGraphHelper.createDynamicGraph() took 5 ms.
+2024-08-22 10:22:06 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 10:22:06 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 10:22:06 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 10:22:07 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 10:22:09 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 10:22:09 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 10:22:09 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.internal.ExitCodeListener@24e08d59: 0 ms
+2024-08-22 10:22:09 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@1a28aef1: 40 ms
+2024-08-22 10:22:09 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.jq.Main@3c904f1e: 56 ms
+2024-08-22 10:22:09 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.FailedReporter@4eb30d44: 0 ms
+2024-08-22 10:22:09 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.XMLReporter@6fd77352: 3 ms
+2024-08-22 10:22:09 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.EmailableReporter2@b10a26d: 4 ms
+2024-08-22 10:22:09 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@8d7b252: 7 ms
+2024-08-22 10:56:36 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 11:00:53 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 11:02:09 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 11:04:45 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 11:04:50 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 11:04:50 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 11:04:50 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 11:04:51 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 11:04:52 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 11:04:52 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 11:05:07 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 11:05:13 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 11:05:13 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 11:05:13 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 11:05:14 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 11:05:15 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 11:05:15 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 11:05:46 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 11:05:51 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 11:05:51 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 11:05:51 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 11:05:52 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 11:05:53 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 11:05:53 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 11:06:05 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 11:06:12 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 11:06:12 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 11:06:12 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 11:06:13 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 11:06:14 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 11:06:14 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 11:12:06 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngParallel.xml
+
+2024-08-22 11:12:10 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 11:12:10 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 11:12:10 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 11:12:11 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 11:12:12 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 11:12:12 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 11:12:17 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 11:12:17 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 11:12:17 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 11:12:18 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 11:12:19 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 11:12:19 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 11:12:26 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 11:12:26 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 11:12:26 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 11:12:26 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 11:12:28 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 11:12:28 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 11:12:55 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngParallel.xml
+
+2024-08-22 11:12:59 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 11:12:59 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 11:12:59 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 11:13:00 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 11:13:01 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 11:13:01 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 11:13:01 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 11:13:01 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 11:13:02 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 11:13:02 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 11:13:03 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 11:13:03 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 11:13:03 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 11:13:03 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 11:13:03 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 11:13:04 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 11:13:05 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 11:13:05 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 13:59:30 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngParallel.xml
+
+2024-08-22 14:01:35 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngParallel.xml
+
+2024-08-22 14:01:40 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 14:01:40 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 14:01:40 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 14:01:41 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 14:01:41 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 14:01:41 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 14:01:41 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 14:01:42 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 14:01:43 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 14:01:43 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 14:01:43 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 14:01:43 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 14:01:43 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 14:01:44 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 14:01:44 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 14:01:44 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 14:01:46 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 14:01:46 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 14:43:14 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 14:44:32 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 14:44:39 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 14:45:24 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 14:45:29 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 14:46:39 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 14:46:43 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 14:50:15 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 14:50:20 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 14:51:19 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 14:51:23 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 14:51:25 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 5 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 6 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\Users\helen\AppData\Local\Temp\testng-eclipse-951242562\testng-customsuite.xml
+
+2024-08-22 14:51:36 INFO  Utils:112 -
+			[Utils] DynamicGraphHelper.createDynamicGraph() took 6 ms.
+2024-08-22 14:51:37 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.internal.ExitCodeListener@6b5894c8: 0 ms
+2024-08-22 14:51:37 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.SuiteHTMLReporter@51e8e6e6: 39 ms
+2024-08-22 14:51:37 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.jq.Main@31e3250d: 60 ms
+2024-08-22 14:51:37 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.FailedReporter@132ddbab: 13 ms
+2024-08-22 14:51:37 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.XMLReporter@5b58ed3c: 10 ms
+2024-08-22 14:51:37 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.EmailableReporter2@eb6449b: 8 ms
+2024-08-22 14:51:37 INFO  Utils:112 -
+			[TestNG] Time taken by org.testng.reporters.JUnitReportReporter@319988b0: 10 ms
+2024-08-22 14:54:13 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 14:54:18 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 14:54:20 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 14:55:22 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 14:55:27 INFO  TC_AccountRegistrationTest:23 -
+			*****************Registration Test**********************
+2024-08-22 14:55:27 INFO  TC_AccountRegistrationTest:25 -
+			Click on the Account
+2024-08-22 14:55:27 INFO  TC_AccountRegistrationTest:27 -
+			Click on the Register
+2024-08-22 14:55:27 INFO  TC_AccountRegistrationTest:30 -
+			Providing the customer details
+2024-08-22 14:55:29 INFO  TC_AccountRegistrationTest:33 -
+			Validating the Confirmation Message
+2024-08-22 14:55:29 INFO  TC_AccountRegistrationTest:44 -
+			*****************Finished**********************
+2024-08-22 14:55:33 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 14:55:35 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 15:52:52 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 15:52:57 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:52:59 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:53:01 INFO  TC003_LoginDDT:77 -
+			**** Finished TC003_LoginDDT *****
+2024-08-22 15:53:01 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:53:02 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:53:04 INFO  TC003_LoginDDT:77 -
+			**** Finished TC003_LoginDDT *****
+2024-08-22 15:55:41 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 15:55:46 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:55:49 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:55:51 INFO  TC003_LoginDDT:77 -
+			**** Finished TC003_LoginDDT *****
+2024-08-22 15:55:51 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:55:53 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:55:55 INFO  TC003_LoginDDT:77 -
+			**** Finished TC003_LoginDDT *****
+2024-08-22 15:56:11 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 15:56:16 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:56:18 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:56:20 INFO  TC003_LoginDDT:77 -
+			**** Finished TC003_LoginDDT *****
+2024-08-22 15:56:20 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:56:21 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 15:56:23 INFO  TC003_LoginDDT:77 -
+			**** Finished TC003_LoginDDT *****
+2024-08-22 16:01:06 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 16:01:11 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 16:01:22 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 16:01:24 INFO  TC003_LoginDDT:77 -
+			**** Finished TC003_LoginDDT *****
+2024-08-22 16:01:24 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 16:01:35 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 16:01:37 INFO  TC003_LoginDDT:77 -
+			**** Finished TC003_LoginDDT *****
+2024-08-22 16:52:49 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngGrouping.xml
+
+2024-08-22 16:52:53 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 16:52:53 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 16:52:53 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 16:52:54 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 16:52:56 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 16:52:56 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 16:53:00 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 16:53:02 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 16:53:50 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngGrouping.xml
+
+2024-08-22 16:53:54 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 16:53:56 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 17:59:36 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngListeners.xml
+
+2024-08-22 17:59:40 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 17:59:40 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 17:59:40 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 17:59:41 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 17:59:42 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 17:59:42 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 17:59:45 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 17:59:47 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 18:01:46 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngListeners.xml
+
+2024-08-22 18:01:51 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 18:01:51 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 18:01:51 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 18:01:52 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 18:01:53 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 18:01:53 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 18:01:58 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 18:06:04 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\test-output\testng-failed.xml
+
+2024-08-22 18:06:08 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 18:06:10 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 18:59:06 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 18:59:45 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 18:59:50 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 19:00:01 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 19:00:05 INFO  TC003_LoginDDT:77 -
+			**** Finished TC003_LoginDDT *****
+2024-08-22 19:00:05 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 19:00:16 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 19:00:19 INFO  TC003_LoginDDT:77 -
+			**** Finished TC003_LoginDDT *****
+2024-08-22 19:00:19 INFO  TC003_LoginDDT:26 -
+			**** Starting TC003_LoginDDT *****
+2024-08-22 19:03:35 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 19:03:39 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:03:39 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:03:39 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:03:39 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 19:03:40 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 19:03:41 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 19:03:44 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 19:03:45 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 19:05:17 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 19:05:21 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:05:21 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:05:22 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:05:22 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 19:05:24 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 19:05:24 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 19:05:27 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 19:05:28 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 19:07:15 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngParallel.xml
+
+2024-08-22 19:07:15 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:07:15 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:07:21 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:07:21 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:07:21 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:07:21 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:07:21 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:07:21 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:09:08 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngParallel.xml
+
+2024-08-22 19:09:08 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:09:08 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:09:14 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:09:14 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:09:14 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:09:14 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:09:14 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:09:14 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:12:35 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngParallel.xml
+
+2024-08-22 19:12:35 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:12:35 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:12:41 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:12:41 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:12:41 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:12:41 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:12:41 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:12:41 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:12:59 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 19:13:04 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:13:04 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:13:04 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:13:04 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 19:13:06 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 19:13:06 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 19:13:10 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 19:13:11 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 19:13:42 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngParallel.xml
+
+2024-08-22 19:13:42 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:13:42 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:13:47 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:13:47 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:13:47 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:13:47 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:13:47 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:13:47 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:16:49 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngParallel.xml
+
+2024-08-22 19:16:49 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:16:49 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:16:55 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:16:55 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:16:55 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:16:55 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:16:55 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:16:55 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:17:14 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngMaster.xml
+
+2024-08-22 19:17:18 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:17:18 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:17:18 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:17:19 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 19:17:21 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 19:17:21 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 19:17:24 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 19:17:26 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 19:17:59 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngListeners.xml
+
+2024-08-22 19:18:04 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 19:18:04 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 19:18:04 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 19:18:04 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 19:18:19 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 19:18:21 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 19:58:32 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngListeners.xml
+
+2024-08-22 20:02:35 INFO  Utils:112 -
+			[TestNG] Running:
+  C:\SampleWorkspace\1st-prism-web-integration-test\OpenCartV21\testngListeners.xml
+
+2024-08-22 20:02:40 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 20:02:40 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 20:02:40 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 20:02:40 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 20:02:42 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 20:02:42 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 20:02:45 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 20:02:47 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 20:43:11 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 20:43:11 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 20:43:12 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 20:43:12 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 20:43:14 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 20:43:14 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 20:43:18 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 20:43:19 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 21:06:55 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 21:06:55 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 21:06:56 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 21:06:56 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 21:06:58 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 21:06:58 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 21:07:01 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 21:07:03 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 21:26:34 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 21:26:34 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 21:26:34 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 21:26:35 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 21:26:36 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 21:26:36 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 21:26:40 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 21:26:41 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
+2024-08-22 21:28:18 INFO  TC001_AccountRegistrationTest:22 -
+			*****************Registration Test**********************
+2024-08-22 21:28:18 INFO  TC001_AccountRegistrationTest:24 -
+			Click on the Account
+2024-08-22 21:28:19 INFO  TC001_AccountRegistrationTest:26 -
+			Click on the Register
+2024-08-22 21:28:19 INFO  TC001_AccountRegistrationTest:29 -
+			Providing the customer details
+2024-08-22 21:28:20 INFO  TC001_AccountRegistrationTest:32 -
+			Validating the Confirmation Message
+2024-08-22 21:28:21 INFO  TC001_AccountRegistrationTest:43 -
+			*****************Finished**********************
+2024-08-22 21:28:24 INFO  TC002_LoginTest:14 -
+			******Login Test*********
+2024-08-22 21:28:25 INFO  TC002_LoginTest:32 -
+			******Finished Login Test*********
